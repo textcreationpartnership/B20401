@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A clause humbly offered to the consideration of the Honourable House of Commons, to be added or incerted, in any bill this honourable house thinks fit.</title>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B20401</idno><idno type="EEBO-CITATION">99885482</idno>
+  <idno type="VID">187536</idno>
+  <idno type="EEBO-PROQUEST">2240884862</idno>
+  
+            <idno type="STC">Wing C4597bA</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.7[108]</idno>
+            <idno type="STC">ESTC R223824</idno>
+            <idno type="PROQUEST">ocm99885482</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885482e"/>
+            <note>(EEBO-TCP ; phase 2, no. B20401)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187536)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C8:1[110])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A clause humbly offered to the consideration of the Honourable House of Commons, to be added or incerted, in any bill this honourable house thinks fit.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing CD-ROM, 1996.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">shipping --  England --  Early works to 1800.</term>
+               <term type="topical_term">Foreign trade regulation --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:187536:1"/>
+            <head>A CLAUSE Humbly Offered To the Consideration of the Honourable House of COMMONS, to be Added or Incerted, in any Bill this Honourable House thinks fit.</head>
+            <p>AND Whereas <hi>the Act made in the</hi> 12th <hi>Year of the Reign of the Late King</hi> Charles II. <hi>Intituled an Act for the Encouraging and Encreasing of Shipping and Navigation, hath been found by Experience, to have greatly Encreased the Number of</hi> English <hi>Ships and Seamen; for the further Encouragement and Encrease thereof, be it further Enacted by the Authority aforesaid, that from and after the <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap> Day of <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> the draw back of Customs paid for Goods Imported, shall only be al<g ref="char:EOLhyphen"/>lowed when Exported again in English built Ships, whereof the Master and three fourths at least of the Marriners are</hi> English, <hi>and they and their Families Inhabiting in</hi> England.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> It may be Objected, that tho this Clause will Encrease <hi>English</hi> Shipping and Seamen, yet it may be destructive to Trade.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ans. </seg>1</label> The security of the Nation, with humble Submission, may be thought most ne<g ref="char:EOLhyphen"/>cessary to be preferr'd before the private Interest of some particular Persons; and as we live in an Island, the great number of our Ships and Seamen under God are the Bulworks thereof.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> The allowing Draw back of Customs, only for Goods Exported in <hi>English</hi> built Ships Navigated as aforesaid, cannot lessen the Exportation of the Goods, for which Draw backs are allowed; especially those of our Plantations, which are not to be had at first hand in any other place than <hi>England,</hi> where pursuant to the aforesaid Act of Navigation, they are Imported only in <hi>English Ships.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Most of the Foreign Ships that Transport the said Goods, come over in their Ballast to fetch the same, which occasion many of our good Ships to lye by and spoil for want of Employment, and our Seamen being reduc'd to great poverty, either turn Pyrates or fly into foreign Service, leaving their Families a burthen upon the Publick, to the great encreasing the Charge, and lessening the Security of this Nation.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> The <hi>English</hi> Navigation in the Narrow Seas, where many Boys are made use of, is a Nursery of <hi>English</hi> Seamen and Pilots, who at all times, and upon all occasions, are ready and at hand to supply his Majesty's Men of War; and it doth also En<g ref="char:EOLhyphen"/>crease the Number of our Maritine Handicrafts and Tradesmen, and augment his Majesty's Customs, by Importation of great quantities of Goods, necessary to fit out and Repair our Ships, many of which are Employed to fetch the same.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> Its equal to the Merchants who receive the Draw back, whether the Goods for which the same is allowed, be Exported in <hi>English</hi> or in Foreign Ships, and it can<g ref="char:EOLhyphen"/>not lessen the Consumption or Exportation of the said Goods, because our <hi>Eng<g ref="char:EOLhyphen"/>glish</hi> Ships can, and are always ready, to Transport more than is wanted abroad.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="6"/> Seeing the aforesaid Draw backs of Customs paid for Goods Imported in <hi>Eng<g ref="char:EOLhyphen"/>gland,</hi> are allowed by His Majesty upon Exportation thereof, It may be thought reasonable that His <hi>English</hi> Ships and Seamen, be preferr'd before Foreigners in Transporting the same; considering that in Forreign Countries no Draw-back of Customs is allowed, but the Goods Imported there, and afterwards Exported a<g ref="char:EOLhyphen"/>gain, must pay Duties Outwards as well as Inwards.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="7"/> All the Pilots that are made use of in his Majesty's Navy and in Merchant Ships, are bred up in the Trade of the Narrow Seas.</p>
+         </div>
+      </body>
+      <back>
+         <div type="docket_title">
+            <pb facs="tcp:187536:2"/>
+            <p>A Clause for the Encouragement of <hi>English</hi> Shipping and Seamen.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
